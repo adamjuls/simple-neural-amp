@@ -1,0 +1,4 @@
+env
+training/runs
+training/__pycache__
+neural-amp-plugin/build

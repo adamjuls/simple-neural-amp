@@ -1,0 +1,6 @@
+[submodule "neural-amp-plugin/JUCE"]
+	path = neural-amp-plugin/JUCE
+	url = https://github.com/juce-framework/JUCE.git
+[submodule "neural-amp-plugin/RTNeural"]
+	path = neural-amp-plugin/RTNeural
+	url = https://github.com/jatinchowdhury18/RTNeural.git

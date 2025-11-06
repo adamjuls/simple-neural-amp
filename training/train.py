@@ -32,7 +32,7 @@ else:
     lstm_hidden_size = int(sys.argv[1])
 
 # Training configuration 
-learning_rate = 1e-3 # how much to adjust network by each time 
+learning_rate = 5e-3 # how much to adjust network by each time 
 seq_length_secs = 0.5 # length of audio in a sequence 
 batch_size = 50 # number of sequences in a batch (how parallel is it?)
 max_epochs = 10000
